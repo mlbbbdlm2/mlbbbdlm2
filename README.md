@@ -1,8 +1,7 @@
 # 📱 Hi, I'm Michael Morgan
 ### Independent Mobile Developer | HTML5 & Physics Games
 
-I build high-performance games designed for mobile devices. My development is done entirely in a **mobile-first environment (Termux/Android)**, ensuring every line of code is optimized for performance.
-
+I build high-performance games designed for mobile devices. My development is handled entirely within a mobile-first Linux-on-Android environment, ensuring every line of code is optimized for performance where it matters most."
 ---
 ## 🎮 Featured Project: Orbit: Kinetic Defense
 **A premium physics-puzzle game built with Vanilla JS & Three.js.**
