@@ -13,12 +13,12 @@ I build high-performance games designed for mobile devices. My development is ha
 * [💼 Inquire about IP Acquisition]
  ---
 ## 💰 Commercial Licensing & IP Acquisition
-**Orbit: Kinetic Defense** and my **Neon Skee-Ball Engine** are currently available for full buyout. 
+**Orbit: Kinetic Defense** is currently available for full buyout. 
 
 ### What is Included in the Sale:
 * 📦 **Full Source Code:** Clean, documented HTML5 / Three.js.
 * 📱 **Mobile-Native Optimization:** Built and tested on Android hardware.
-* 🎨 **Complete Asset Pack:** All original neon-themed physics assets.
+* 🎨 **Complete Asset Pack:** Original Orbit-themed physics assets.
 * 🛠️ **Developer Handover:** Technical documentation for easy integration.
 
 ### [📧 Inquire about Purchase Rights](mailto:mlbbbdlm003@gmail.com?subject=Inquiry: Project Acquisition)
