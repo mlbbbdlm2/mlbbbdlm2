@@ -1,3 +1,7 @@
+![Built on Android](https://img.shields.io/badge/Built%20on-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Environment Termux](https://img.shields.io/badge/Environment-Termux-EF7E1A?style=for-the-badge&logo=linux&logoColor=white)
+
+---
 # 📱 Hi, I'm Michael Morgan
 ### Independent Mobile Developer | HTML5 & Physics Games
 
