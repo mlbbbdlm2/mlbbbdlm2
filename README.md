@@ -28,3 +28,11 @@ I build high-performance games designed for mobile devices. My development is ha
 
 https://github.com/user-attachments/assets/f73289ab-f589-41f6-8604-cd417f3f6eed
 
+### ⚡ Technical Performance
+| Feature | Specification |
+| :--- | :--- |
+| **Engine** | Vanilla JavaScript / Three.js (WebGL) |
+| **Frame Rate** | Stable 60 FPS (Tested on Android) |
+| **Optimization** | Low-latency touch input & 3D rendering |
+| **Compatibility** | Chrome / Safari / All Mobile Browsers |
+| **Build Environment** | 100% Mobile-Native (Termux/Android) |
