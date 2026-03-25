@@ -14,8 +14,7 @@ I build high-performance games designed for mobile devices. My development is ha
 ---
 
 **A premium physics-puzzle game built with Vanilla JS & Three.js.**
-* [▶️ Play the Demo](https://mlbbbdlm2.github.io/my-cool-site/)
-* [💼 Inquire about IP Acquisition]
+
  ---
 ## 💰 Commercial Licensing & IP Acquisition
 **Orbit: Kinetic Defense** is currently available for full buyout. 
