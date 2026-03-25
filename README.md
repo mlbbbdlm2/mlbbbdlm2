@@ -8,6 +8,11 @@
 I build high-performance games designed for mobile devices. My development is handled entirely within a mobile-first Linux-on-Android environment, ensuring every line of code is optimized for performance where it matters most."
 ---
 ## 🎮 Featured Project: Orbit: Kinetic Defense
+## 🕹️ [👉 CLICK HERE TO PLAY THE DEMO](https://mlbbbdlm2.github.io/my-cool-site/)
+> **Pro Tip:** Open this on your phone to "Install" it as a full-screen app!
+
+---
+
 **A premium physics-puzzle game built with Vanilla JS & Three.js.**
 * [▶️ Play the Demo](https://mlbbbdlm2.github.io/my-cool-site/)
 * [💼 Inquire about IP Acquisition]
@@ -37,7 +42,6 @@ https://github.com/user-attachments/assets/f73289ab-f589-41f6-8604-cd417f3f6eed
 | **Compatibility** | Chrome / Safari / All Mobile Browsers |
 | **Build Environment** | 100% Mobile-Native (Termux/Android) |
 ---
-### 🕹️ [👉 CLICK HERE TO PLAY THE LIVE DEMO](https://mlbbbdlm2.github.io/my-cool-site/)
 *Optimized for mobile browsers. Best experienced on Android/iOS.*
 ---
 
