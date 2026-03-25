@@ -36,3 +36,8 @@ https://github.com/user-attachments/assets/f73289ab-f589-41f6-8604-cd417f3f6eed
 | **Optimization** | Low-latency touch input & 3D rendering |
 | **Compatibility** | Chrome / Safari / All Mobile Browsers |
 | **Build Environment** | 100% Mobile-Native (Termux/Android) |
+---
+### 🕹️ [👉 CLICK HERE TO PLAY THE LIVE DEMO](https://mlbbbdlm2.github.io/my-cool-site/)
+*Optimized for mobile browsers. Best experienced on Android/iOS.*
+---
+
