@@ -25,10 +25,11 @@ I build high-performance games designed for mobile devices. My development is ha
 * 🎨 **Complete Asset Pack:** Original Orbit-themed physics assets.
 * 🛠️ **Developer Handover:** Technical documentation for easy integration.
 
-### [📧 Inquire about Purchase Rights](mailto:mlbbbdlm003@gmail.com?subject=Inquiry: Project Acquisition)
+
 *Serious inquiries only. Full transfer of IP and Commercial Rights available.*
 
 
+[📧 **Inquire about Purchase Rights**](mailto:mlbbbdlm003@gmail.com?subject=Inquiry:%20Project%20Acquisition)
 
 https://github.com/user-attachments/assets/f73289ab-f589-41f6-8604-cd417f3f6eed
 
