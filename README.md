@@ -24,3 +24,7 @@ I build high-performance games designed for mobile devices. My development is ha
 ### [📧 Inquire about Purchase Rights](mailto:mlbbbdlm003@gmail.com?subject=Inquiry: Project Acquisition)
 *Serious inquiries only. Full transfer of IP and Commercial Rights available.*
 
+
+
+https://github.com/user-attachments/assets/f73289ab-f589-41f6-8604-cd417f3f6eed
+
