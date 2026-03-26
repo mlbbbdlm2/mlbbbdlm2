@@ -7,9 +7,8 @@
 
 I build high-performance games designed for mobile devices. My development is handled entirely within a mobile-first Linux-on-Android environment, ensuring every line of code is optimized for performance where it matters most."
 ---
-## 🎮 Featured Project: Orbit: Kinetic Defense
-## 🕹️ [👉 CLICK HERE TO PLAY THE DEMO](https://mlbbbdlm2.github.io/my-cool-site/)
-> **Pro Tip:** Open this on your phone to "Install" it as a full-screen app!
+## 🕹️ Featured Project: Orbit: Kinetic Defense
+[**Click Here to Play the Live Demo**](https://mlbbbdlm2.github.io/orbit-demo/)
 
 ---
 
